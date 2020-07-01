@@ -1,0 +1,26 @@
+h1 {
+    padding-top: 70px;
+    
+}
+
+body {
+    background-image: url();
+}
+
+h2 {
+    text-align: center;
+    padding-top: 120px;
+    
+}
+
+button {
+    margin-top: 30px;
+    color: white;
+    background-color: blue;
+    
+}
+
+h3 {
+    text-align: right;
+    padding-top: 40px;
+}
